@@ -1,6 +1,28 @@
 # Elearning
 # React + Vite
 
+
+## Demo : https://learnovara.netlify.app/
+
+## 🚀 Features
+
+- **Face Recognition Login**  
+
+- **Chatbot Support**  
+ 
+- **Ai lecture doubt clearance**    
+
+- **To-Do List**  
+  
+- **Notes Section**
+  
+- **Live Class Section(Gmeet)**    
+
+- **Scheduler and Reminder through Email**  
+ 
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
